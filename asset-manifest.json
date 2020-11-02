@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wheel-of-fortune/static/css/main.d269fa14.chunk.css",
+    "main.js": "/wheel-of-fortune/static/js/main.b45498b5.chunk.js",
+    "main.js.map": "/wheel-of-fortune/static/js/main.b45498b5.chunk.js.map",
+    "runtime-main.js": "/wheel-of-fortune/static/js/runtime-main.2f6f8ebc.js",
+    "runtime-main.js.map": "/wheel-of-fortune/static/js/runtime-main.2f6f8ebc.js.map",
+    "static/js/2.1c9cafee.chunk.js": "/wheel-of-fortune/static/js/2.1c9cafee.chunk.js",
+    "static/js/2.1c9cafee.chunk.js.map": "/wheel-of-fortune/static/js/2.1c9cafee.chunk.js.map",
+    "index.html": "/wheel-of-fortune/index.html",
+    "static/css/main.d269fa14.chunk.css.map": "/wheel-of-fortune/static/css/main.d269fa14.chunk.css.map",
+    "static/js/2.1c9cafee.chunk.js.LICENSE.txt": "/wheel-of-fortune/static/js/2.1c9cafee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f6f8ebc.js",
+    "static/js/2.1c9cafee.chunk.js",
+    "static/css/main.d269fa14.chunk.css",
+    "static/js/main.b45498b5.chunk.js"
+  ]
+}
