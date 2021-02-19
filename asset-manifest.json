@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/wheel-of-fortune/static/css/main.a0ceb7b6.chunk.css",
-    "main.js": "/wheel-of-fortune/static/js/main.3199abc4.chunk.js",
-    "main.js.map": "/wheel-of-fortune/static/js/main.3199abc4.chunk.js.map",
+    "main.css": "/wheel-of-fortune/static/css/main.a5ffbd56.chunk.css",
+    "main.js": "/wheel-of-fortune/static/js/main.f22b3611.chunk.js",
+    "main.js.map": "/wheel-of-fortune/static/js/main.f22b3611.chunk.js.map",
     "runtime-main.js": "/wheel-of-fortune/static/js/runtime-main.2f6f8ebc.js",
     "runtime-main.js.map": "/wheel-of-fortune/static/js/runtime-main.2f6f8ebc.js.map",
-    "static/js/2.538e8209.chunk.js": "/wheel-of-fortune/static/js/2.538e8209.chunk.js",
-    "static/js/2.538e8209.chunk.js.map": "/wheel-of-fortune/static/js/2.538e8209.chunk.js.map",
+    "static/js/2.961a9771.chunk.js": "/wheel-of-fortune/static/js/2.961a9771.chunk.js",
+    "static/js/2.961a9771.chunk.js.map": "/wheel-of-fortune/static/js/2.961a9771.chunk.js.map",
     "index.html": "/wheel-of-fortune/index.html",
-    "static/css/main.a0ceb7b6.chunk.css.map": "/wheel-of-fortune/static/css/main.a0ceb7b6.chunk.css.map",
-    "static/js/2.538e8209.chunk.js.LICENSE.txt": "/wheel-of-fortune/static/js/2.538e8209.chunk.js.LICENSE.txt"
+    "static/css/main.a5ffbd56.chunk.css.map": "/wheel-of-fortune/static/css/main.a5ffbd56.chunk.css.map",
+    "static/js/2.961a9771.chunk.js.LICENSE.txt": "/wheel-of-fortune/static/js/2.961a9771.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2f6f8ebc.js",
-    "static/js/2.538e8209.chunk.js",
-    "static/css/main.a0ceb7b6.chunk.css",
-    "static/js/main.3199abc4.chunk.js"
+    "static/js/2.961a9771.chunk.js",
+    "static/css/main.a5ffbd56.chunk.css",
+    "static/js/main.f22b3611.chunk.js"
   ]
 }
