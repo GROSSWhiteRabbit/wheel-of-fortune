@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wheel-of-fortune/static/css/main.a5ffbd56.chunk.css",
-    "main.js": "/wheel-of-fortune/static/js/main.f22b3611.chunk.js",
-    "main.js.map": "/wheel-of-fortune/static/js/main.f22b3611.chunk.js.map",
+    "main.js": "/wheel-of-fortune/static/js/main.be760b95.chunk.js",
+    "main.js.map": "/wheel-of-fortune/static/js/main.be760b95.chunk.js.map",
     "runtime-main.js": "/wheel-of-fortune/static/js/runtime-main.2f6f8ebc.js",
     "runtime-main.js.map": "/wheel-of-fortune/static/js/runtime-main.2f6f8ebc.js.map",
     "static/js/2.961a9771.chunk.js": "/wheel-of-fortune/static/js/2.961a9771.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2f6f8ebc.js",
     "static/js/2.961a9771.chunk.js",
     "static/css/main.a5ffbd56.chunk.css",
-    "static/js/main.f22b3611.chunk.js"
+    "static/js/main.be760b95.chunk.js"
   ]
 }
